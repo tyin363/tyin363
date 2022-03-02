@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tyin363 (Tony Yin)
+- 👋 Hi, I’m @tyin363 (Tony Yin). I'm currently a second year software engineering student studying at the University of Auckland.
 - 👀 I’m interested in exploring new technologies and languages. I'm currently exploring web development using HTML, CSS and JavaScript.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on future projects
